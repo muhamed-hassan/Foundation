@@ -1,4 +1,4 @@
-package com.lesson1;
+package com.practice;
 
 // https://en.wikibooks.org/wiki/The_Way_of_the_Java/Introduction
 
