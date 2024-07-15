@@ -11,10 +11,4 @@
 
 ***
 
-![learn-java-with-ubiqum-logo](https://user-images.githubusercontent.com/17825804/219604766-39ec67b4-4787-4bf1-b7df-0e80e4e37729.png)
-
-***
-
-![Duke_(Java_mascot)_waving svg](https://user-images.githubusercontent.com/17825804/219604802-a8363471-8f29-4568-bc33-a4626553ff8b.png)
-
-
+![dhjl3n9-66f5418e-0a81-426d-b86f-6e1fbfb99933](https://github.com/user-attachments/assets/85e22f72-0559-45d8-931b-b3986dace46b)
